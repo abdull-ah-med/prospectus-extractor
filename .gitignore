@@ -90,7 +90,7 @@ npm-debug.log*
 .env.test.local
 .env.production.local
 
-# macOS
+# ma
 .DS_Store
 .AppleDouble
 .LSOverride
