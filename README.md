@@ -32,8 +32,6 @@ prospectus-extractor/
 │       ├── embedder.py         # Vector embedding generation
 │       ├── persister.py        # Database persistence
 │       └── blob_storage.py     # Azure Blob Storage client
-├── Dockerfile
-├── docker-compose.yml
 └── requirements.txt
 ```
 
